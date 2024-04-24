@@ -1,3 +1,4 @@
+####
 Bitwise Operators
 EasyAccuracy: 49.22%Submissions: 25K+Points: 2
 Three 90 Challenge Extended On Popular Demand! Don't Miss Out Now 
@@ -27,6 +28,7 @@ Output:
 -11
 Constraints:
 1 <= A, B, C <= 106
+#####
 
 soln:
 #User function Template for python3
