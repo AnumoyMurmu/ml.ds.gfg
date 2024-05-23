@@ -1,0 +1,28 @@
+CustomerID,Name,Age,City
+1001,Alice,25,New York
+1001,Alice,25,
+1002,Bob,30,Los Angeles
+1003,Charlie,22,Chicago
+1003,Charlie,22,
+1004,David,35,London
+1002,Bob,30,Los Angeles
+1005,Emily,28,Paris
+1006,Frank,40,Berlin
+1006,Frank,40,Berlin
+1007,George,20,Tokyo
+1008,Henry,18,Madrid
+1009,Isabella,32,Rome
+1009,Isabella,32,Rome
+1010,Jack,27,New York
+1001,Alice,25,New York  # Duplicate of row 1 (CustomerID)
+1002,Bob,30,Los Angeles  # Duplicate of row 3 (CustomerID)
+1011,Lily,45,Sydney
+1012,Michael,19,Athens
+1013,Noah,24,Cairo
+1014,Olivia,38,Mexico City
+1015,Peter,50,Singapore
+1016,Quinn,21,Copenhagen
+1017,Robert,60,Sao Paulo
+1018,Sarah,33,Buenos Aires
+1019,Thomas,42,Dubai
+1020,Umaima,29,Istanbul
